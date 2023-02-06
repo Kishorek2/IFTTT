@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ifttt{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 61px;
+    color: #000000;
+    width: 508px;
+    height: 61px;
+    margin: 26px 466px 0 466px;
+}
+
+.content{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+    width: 448px;
+    height: 52px;
+    margin: 40px 496px 0 496px;
+}
+
+
+.column {
+    float: left;
+    width: 320px;
+    height: 241px;
+    box-shadow: -1px -1px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.rectangle1 {
+    background: #31C4F4;
+    margin: 76px 0 0 210px;
+}
+
+.rectangle2 {
+    background: #333333;
+    margin: 76px 0 0 20px;
+}
+
+.rectangle3 {
+    background: #0362FF;
+    margin: 76px 0 0 20px;
+}
+
+.rectangle4 {
+    background: #262626;
+    margin: 20px 0 0 210px;
+}
+
+.rectangle5 {
+    background: #2B6FFC;
+    margin: 20px 0 0 20px;
+}
+
+.rectangle6 {
+    background: #232323;
+    margin: 20px 0 0 20px;
+}
+
+.rectangle7 {
+    background: #0199FE;
+    margin: 20px 0 0 210px;
+}
+
+.rectangle8 {
+    background: #E3415E;
+    margin: 20px 0 0 20px;
+}
+
+.rectangle9 {
+    background: #6CB86A;
+    margin: 20px 0 0 20px;
+}
+
+.rectangle10 {
+    background: #1CBA55;
+    margin: 20px 0 0 210px;
+}
+
+.rectangle11 {
+    background: #01AAEC;
+    margin: 20px 0 0 20px;
+}
+
+.rectangle12 {
+    background: #1F2125;
+    margin: 20px 0 0 20px;
+}
+
+
+
+.Alexa{
+    padding: 33px 125px 60px 122px;
+}
+
+.Dt{
+    padding: 34px 126px 62px 124px;
+}
+
+.Db{
+    padding: 32px 125px 61px 125px;
+}
+
+.GA{
+    padding: 26px 125px 33px 125px;
+}
+
+.GC{
+    padding: 37px 123px 53px 124px;
+}
+
+.Ps{
+    padding: 49px 123px 67px 122px;
+}
+
+.Nc{
+    padding: 32px 130px 51px 131px;
+}
+
+.In{
+    padding: 39px 132px 58px 132px;
+}
+
+.Ir{
+    padding: 33px 124px 51px 126px;
+}
+
+.Sy{
+    padding: 34px 125px 51px 125px;
+}
+
+.Tr{
+    padding: 39px 126px 58px 124px;
+}
+
+.Wug{
+    padding: 30px 125px 46px 125px;
+}
